@@ -1,5 +1,5 @@
 # Synapse - AI-Powered Professional Networking
-socil network v2
+social network v2
 
 - A modern professional networking application that uses AI assistants to help users connect with like-minded individuals. Built with React, Convex, and Gemini.
 
