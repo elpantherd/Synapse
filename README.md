@@ -69,8 +69,6 @@ The system uses AI to:
 - Score compatibility between users
 - Create matches when high relevance is detected
 - Consider multiple factors including interests and goals
-  
-![matchmade](https://github.com/user-attachments/assets/a845ff08-0e70-4f66-86c2-f91f4117bdc5)
 
 
 ### Real-time Chat
