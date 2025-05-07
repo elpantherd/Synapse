@@ -79,3 +79,13 @@ The system uses AI to:
 - Real-time message delivery
 - Chat history preservation
 
+## Licensing
+This software is proprietary and not open source. Please see the [LICENSE](LICENSE) file for terms of use.
+
+---
+
+## Contact Information
+
+For questions or support, contact TEAM SYNAPSE Inc. at [dthayalan760@gmail.com].
+
+
