@@ -86,6 +86,6 @@ This software is proprietary and not open source. Please see the [LICENSE](LICEN
 
 ## Contact Information
 
-For questions or support, contact TEAM SYNAPSE Inc. at [dthayalan760@gmail.com].
+For questions or support, contact TEAM Synapse Inc. at [dthayalan760@gmail.com].
 
 
