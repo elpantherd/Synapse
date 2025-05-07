@@ -1,2 +1,2 @@
-# synapse
+# Synapse
 socil network v2
